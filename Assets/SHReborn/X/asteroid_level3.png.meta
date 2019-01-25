@@ -1,0 +1,435 @@
+fileFormatVersion: 2
+guid: d6605309286cd5b49b853ebe33074658
+timeCreated: 1506132038
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: asteroid_level3_0
+    21300002: asteroid_level3_1
+    21300004: asteroid_level3_2
+    21300006: asteroid_level3_3
+    21300008: asteroid_level3_4
+    21300010: asteroid_level3_5
+    21300012: asteroid_level3_6
+    21300014: asteroid_level3_7
+    21300016: asteroid_level3_8
+    21300018: asteroid_level3_9
+    21300020: asteroid_level3_10
+    21300022: asteroid_level3_11
+    21300024: asteroid_level3_12
+    21300026: asteroid_level3_13
+    21300028: asteroid_level3_14
+    21300030: asteroid_level3_15
+    21300032: asteroid_level3_16
+    21300034: asteroid_level3_17
+    21300036: asteroid_level3_18
+    21300038: asteroid_level3_19
+    21300040: asteroid_level3_20
+    21300042: asteroid_level3_21
+    21300044: asteroid_level3_22
+    21300046: asteroid_level3_23
+    21300048: asteroid_level3_24
+    21300050: asteroid_level3_25
+    21300052: asteroid_level3_26
+    21300054: asteroid_level3_27
+    21300056: asteroid_level3_28
+    21300058: asteroid_level3_29
+    21300060: asteroid_level3_31
+    21300062: asteroid_level3_32
+    21300064: asteroid_level3_33
+    21300066: asteroid_level3_34
+    21300068: asteroid_level3_36
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: -1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Tizen
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: asteroid_level3_0
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 1253
+        width: 188
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_level3_1
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 1439
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_level3_3
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 1180
+        width: 99
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_level3_4
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 1086
+        width: 144
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_level3_5
+      rect:
+        serializedVersion: 2
+        x: 2343
+        y: 1115
+        width: 111
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_level3_6
+      rect:
+        serializedVersion: 2
+        x: 2467
+        y: 1109
+        width: 113
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_level3_9
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 753
+        width: 509
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_level3_10
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 841
+        width: 291
+        height: 267
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_level3_11
+      rect:
+        serializedVersion: 2
+        x: 2349
+        y: 841
+        width: 221
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_level3_16
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 809
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_level3_17
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 693
+        width: 192
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_level3_20
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 576
+        width: 132
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_level3_21
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 344
+        width: 563
+        height: 393
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_level3_23
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 620
+        width: 92
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_level3_24
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 512
+        width: 285
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_level3_27
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 532
+        width: 103
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_level3_29
+      rect:
+        serializedVersion: 2
+        x: 2577
+        y: 487
+        width: 213
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_level3_32
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 497
+        width: 123
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_level3_33
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 348
+        width: 57
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_level3_34
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 376
+        width: 101
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: asteroid_level3_36
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 294
+        width: 300
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

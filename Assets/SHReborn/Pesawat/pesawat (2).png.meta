@@ -1,0 +1,811 @@
+fileFormatVersion: 2
+guid: 1cc176e9ed016d84ba1cc1293e281c16
+timeCreated: 1506861055
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: pesawat (2)_0
+    21300002: pesawat (2)_1
+    21300004: pesawat (2)_2
+    21300006: pesawat (2)_3
+    21300008: pesawat (2)_4
+    21300010: pesawat (2)_5
+    21300012: pesawat (2)_6
+    21300014: pesawat (2)_7
+    21300016: pesawat (2)_8
+    21300018: pesawat (2)_9
+    21300020: pesawat (2)_10
+    21300022: pesawat (2)_11
+    21300024: pesawat (2)_12
+    21300026: pesawat (2)_13
+    21300028: pesawat (2)_14
+    21300030: pesawat (2)_15
+    21300032: pesawat (2)_16
+    21300034: pesawat (2)_17
+    21300036: pesawat (2)_18
+    21300038: pesawat (2)_19
+    21300040: pesawat (2)_20
+    21300042: pesawat (2)_21
+    21300044: pesawat (2)_22
+    21300046: pesawat (2)_23
+    21300048: pesawat (2)_24
+    21300050: pesawat (2)_25
+    21300052: pesawat (2)_26
+    21300054: pesawat (2)_27
+    21300056: pesawat (2)_28
+    21300058: pesawat (2)_29
+    21300060: pesawat (2)_30
+    21300062: pesawat (2)_31
+    21300064: pesawat (2)_32
+    21300066: pesawat (2)_33
+    21300068: pesawat (2)_34
+    21300070: pesawat (2)_35
+    21300072: pesawat (2)_36
+    21300074: pesawat (2)_37
+    21300076: pesawat (2)_38
+    21300078: pesawat (2)_39
+    21300080: pesawat (2)_40
+    21300082: pesawat (2)_41
+    21300084: pesawat (2)_42
+    21300086: pesawat (2)_43
+    21300088: pesawat (2)_44
+    21300090: pesawat (2)_45
+    21300092: pesawat (2)_46
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: -1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Tizen
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pesawat (2)_0
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 3203
+        width: 162
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pesawat (2)_1
+      rect:
+        serializedVersion: 2
+        x: 2744
+        y: 3285
+        width: 126
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pesawat (2)_2
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 3167
+        width: 234
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pesawat (2)_3
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 3104
+        width: 289
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pesawat (2)_4
+      rect:
+        serializedVersion: 2
+        x: 2626
+        y: 3068
+        width: 262
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pesawat (2)_5
+      rect:
+        serializedVersion: 2
+        x: 3404
+        y: 3050
+        width: 280
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pesawat (2)_6
+      rect:
+        serializedVersion: 2
+        x: 4245
+        y: 3140
+        width: 199
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pesawat (2)_7
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 2706
+        width: 569
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pesawat (2)_8
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 2742
+        width: 533
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pesawat (2)_9
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 2715
+        width: 515
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pesawat (2)_10
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 2715
+        width: 587
+        height: 271
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pesawat (2)_11
+      rect:
+        serializedVersion: 2
+        x: 3286
+        y: 2688
+        width: 513
+        height: 307
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pesawat (2)_12
+      rect:
+        serializedVersion: 2
+        x: 4064
+        y: 2709
+        width: 565
+        height: 331
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pesawat (2)_13
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 2227
+        width: 496
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pesawat (2)_14
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 2137
+        width: 596
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pesawat (2)_15
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 2173
+        width: 597
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pesawat (2)_16
+      rect:
+        serializedVersion: 2
+        x: 2491
+        y: 2182
+        width: 587
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pesawat (2)_17
+      rect:
+        serializedVersion: 2
+        x: 3296
+        y: 2182
+        width: 406
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pesawat (2)_18
+      rect:
+        serializedVersion: 2
+        x: 4127
+        y: 2264
+        width: 468
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pesawat (2)_19
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1785
+        width: 534
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pesawat (2)_20
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 1866
+        width: 362
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pesawat (2)_21
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 1929
+        width: 406
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pesawat (2)_22
+      rect:
+        serializedVersion: 2
+        x: 2563
+        y: 1848
+        width: 452
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pesawat (2)_23
+      rect:
+        serializedVersion: 2
+        x: 3341
+        y: 1893
+        width: 334
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pesawat (2)_24
+      rect:
+        serializedVersion: 2
+        x: 4172
+        y: 1929
+        width: 362
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pesawat (2)_25
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1324
+        width: 416
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pesawat (2)_26
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 1351
+        width: 560
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pesawat (2)_27
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 1397
+        width: 460
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pesawat (2)_28
+      rect:
+        serializedVersion: 2
+        x: 2346
+        y: 818
+        width: 1130
+        height: 659
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pesawat (2)_29
+      rect:
+        serializedVersion: 2
+        x: 3748
+        y: 1396
+        width: 207
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pesawat (2)_30
+      rect:
+        serializedVersion: 2
+        x: 3983
+        y: 1396
+        width: 207
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pesawat (2)_31
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1026
+        width: 433
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pesawat (2)_32
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 901
+        width: 416
+        height: 332
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pesawat (2)_33
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 953
+        width: 362
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pesawat (2)_34
+      rect:
+        serializedVersion: 2
+        x: 3838
+        y: 1089
+        width: 262
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pesawat (2)_35
+      rect:
+        serializedVersion: 2
+        x: 3693
+        y: 782
+        width: 271
+        height: 253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pesawat (2)_36
+      rect:
+        serializedVersion: 2
+        x: 3983
+        y: 782
+        width: 262
+        height: 253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pesawat (2)_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 14
+        width: 809
+        height: 695
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pesawat (2)_38
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 32
+        width: 551
+        height: 424
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pesawat (2)_39
+      rect:
+        serializedVersion: 2
+        x: 2603
+        y: 1
+        width: 409
+        height: 409
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pesawat (2)_40
+      rect:
+        serializedVersion: 2
+        x: 3223
+        y: 30
+        width: 350
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pesawat (2)_41
+      rect:
+        serializedVersion: 2
+        x: 3766
+        y: 393
+        width: 397
+        height: 379
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pesawat (2)_42
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 50
+        width: 524
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pesawat (2)_43
+      rect:
+        serializedVersion: 2
+        x: 3784
+        y: 140
+        width: 361
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pesawat (2)_44
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 0
+        width: 27
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pesawat (2)_45
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 0
+        width: 45
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pesawat (2)_46
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 35
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
